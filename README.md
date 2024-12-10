@@ -21,14 +21,18 @@ mkdir logs
 mkdir out_dir
 ```
 ## Get demo data
+
 **1.Loop**
+
 The loop data of HG001-HG004 has been placed in the data/directory
 
 **2.Methylation**
+
 The WGBS data of HG001-HG004 can be obtained from NCBI (GSE186383)
 
 **3.Nanopore assembly data**
-The assembly data of HG001 (NA12878) and HG002 can be obtained from https://zenodo.org/records/5228989 download
+
+The assembly data of HG001 (NA12878) and HG002 can be obtained from https://zenodo.org/records/5228989
 
 ## Usage
 **1.Generate negative samples**
